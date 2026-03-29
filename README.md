@@ -7,7 +7,6 @@ Responsive web app to search albums, rate tracks, manage pending listens, and us
 - Responsive UI for mobile and desktop
 - Search albums by:
   - Spotify (server-side, optional)
-  - Apple Music (server-side, optional)
   - MusicBrainz (works without credentials)
   - Manual album creation
 - Track-by-track ratings:
